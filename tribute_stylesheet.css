@@ -1,0 +1,136 @@
+html {
+
+font-size: 12px;
+	
+}
+
+body {
+	
+margin: 0px;	
+	
+}
+
+#first-div {
+	
+/*background-image: url(ouroboros.gif);*/
+background-color: #000;	
+min-height: 70vh;
+
+}
+
+#first-div-title {
+	
+color: #fff;
+text-align: center;
+font-family: Arial Black, Arial, Verdana, Serif;
+position: relative;
+top: 110px;
+margin-left: 131px;
+	
+}
+
+#first-div-subtitle {
+	
+color: #fff;
+text-align: center;
+font-family: Arial Black, Arial, Verdana, Serif;
+font-size: 19px;
+position: relative;
+top: 130px;
+margin-left: 260px;
+	
+}
+
+#image {
+	
+background-color: #fff;
+min-height: 80vh;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: flex-end;
+
+}
+
+#image-text {
+	
+order: 1;
+flex-grow: 1;
+min-width: 30%;
+margin-top: 25vh;
+font-size: 2.3em;
+font-family: Roboto, Sans-Serif, Arial;
+text-align: center;	
+font-weight: 400;
+margin-bottom: 25vh;	
+	
+}
+
+#kekulé-qoute {
+
+max-width: 400px;
+margin-left: auto;
+margin-right: auto;	
+	
+}
+
+#the-image {
+
+order: 2;
+flex-grow: 1;
+min-width: 45%;
+align-self: flex-end;
+max-width: 500px;		
+	
+}
+
+#kekulé-image {
+
+max-width: 100%;
+box-sizing: border-box;
+float: right;	
+	
+}
+
+#third-div{
+	
+background-color: #000;
+padding-bottom: 2vw;
+padding-right: 2vw;
+padding-left: 2vw;	
+	
+}
+
+#third-div-content {
+color: #fff;	
+font-family: Arial Black, Arial, Verdana, Serif;
+margin-top: 5.5em;
+margin-bottom: 2em;
+}	
+
+#third-div-title {
+
+font-size: 4em;		
+	
+}
+
+#third-div-text {
+	
+margin-top: 2.5em;
+font-size: 1.2em;		
+	
+}
+
+#author-text {
+color: #fff;
+font-size: 1.2em;
+text-align: center;
+margin-top: 2vw;		
+	
+}
+
+a:visited {
+
+color: #eb3c3c;
+	
+}
