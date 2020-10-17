@@ -25,7 +25,8 @@ text-align: center;
 font-family: Arial Black, Arial, Verdana, Serif;
 position: relative;
 top: 110px;
-/*margin-left: 131px;*/
+margin-left: 240px;
+
 	
 }
 
@@ -37,7 +38,7 @@ font-family: Arial Black, Arial, Verdana, Serif;
 font-size: 19px;
 position: relative;
 top: 130px;
-/*margin-left: 260px;*/
+margin-left: 240px;
 	
 }
 
@@ -117,7 +118,9 @@ font-size: 4em;
 #third-div-text {
 	
 margin-top: 2.5em;
-font-size: 1.2em;		
+font-size: 1.2em;
+line-height: 1.6;
+letter-spacing: 0.5px;	
 	
 }
 
